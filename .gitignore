@@ -1,0 +1,7 @@
+# IntellijIdea files
+.idea
+
+# Макеты сайта
+.psd
+.pdf
+/макет/
