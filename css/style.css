@@ -658,3 +658,24 @@ h2 {
 	padding: 12px 30px;
 	font-size: 17px;
 }
+
+
+
+
+.btn-calculation input {
+	color: #010101;
+	text-decoration: none;
+	border-radius: 10px;
+	background-image: -moz-linear-gradient( 90deg, rgb(255,243,25) 0%, rgb(252,243,79) 50%, rgb(254,243,52) 74%, rgb(255,243,25) 100%);
+	background-image: -webkit-linear-gradient( 90deg, rgb(255,243,25) 0%, rgb(252,243,79) 50%, rgb(254,243,52) 74%, rgb(255,243,25) 100%);
+	background-image: -ms-linear-gradient( 90deg, rgb(255,243,25) 0%, rgb(252,243,79) 50%, rgb(254,243,52) 74%, rgb(255,243,25) 100%);
+	font-weight: 900;
+	font-size: 17px;
+}
+
+.btn-calculation input:hover {
+	color: #010101;
+	text-decoration: none;
+	border-radius: 10px;
+	background: gold;
+}
