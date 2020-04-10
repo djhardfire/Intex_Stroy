@@ -173,6 +173,13 @@
 }
 @media (max-width: 480px) {
 
+	/*///*/
+	body {
+		width: 116%;
+
+	}
+	/*///*/
+
 	.btn {
 		display: -webkit-flex;
 		display: -moz-flex;
